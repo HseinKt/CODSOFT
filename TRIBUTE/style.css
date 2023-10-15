@@ -34,3 +34,10 @@ code {
     align-items: center;
     /* justify-content: space-between; */
 }
+
+p {
+    margin-bottom: 30px;
+    text-shadow: 2px 4px #ffffff;
+    font-size: 45px;
+    font-weight: bold;
+}
